@@ -1,4 +1,5 @@
 # Concordium Hack TASK 01
+##### By Grigore-Gabriel Trifan (GregTrifan)
 * Install Rust
   ![](img/rust-cfg-01.png)
   ![](img/rust-cfg-02.png)
@@ -22,4 +23,3 @@
       ![](img/account-details.png) 
       **imported account to concordium-client**
      ![](img/account-03.png)
-
