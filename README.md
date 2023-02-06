@@ -1,5 +1,6 @@
 # Concordium Hack TASK 01
 ##### By Grigore-Gabriel Trifan (GregTrifan)
+##### Mainnet adress: 2xBLr1bosK5NEQJTW9q1GHsmmuDgLrjAAzC8CSUBJc55AwVsw5
 * Install Rust
   ![](img/rust-cfg-01.png)
   ![](img/rust-cfg-02.png)
