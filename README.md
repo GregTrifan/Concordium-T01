@@ -2,7 +2,7 @@
 ##### By Grigore-Gabriel Trifan (GregTrifan)
 ##### Concordium Mainnet adress: ```2xBLr1bosK5NEQJTW9q1GHsmmuDgLrjAAzC8CSUBJc55AwVsw5```
 ##### Ethereum address: ```0x2BA30F26B0D163cDFEEA21B9eaC8f82f1Afaa021```
-**!!! The address filled on Gitcoin is the Concordium Mainnet one rather than an ERC-20 address**
+**!!! The address filled on Gitcoin is a Concordium Mainnet one rather than an ERC-20 address**
 * Install Rust
   ![](img/rust-cfg-01.png)
   ![](img/rust-cfg-02.png)
