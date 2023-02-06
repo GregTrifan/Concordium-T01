@@ -1,7 +1,8 @@
 # Concordium Hack TASK 01
 ##### By Grigore-Gabriel Trifan (GregTrifan)
-##### Mainnet adress: ```2xBLr1bosK5NEQJTW9q1GHsmmuDgLrjAAzC8CSUBJc55AwVsw5```
+##### Concordium Mainnet adress: ```2xBLr1bosK5NEQJTW9q1GHsmmuDgLrjAAzC8CSUBJc55AwVsw5```
 ##### Ethereum address: ```0x2BA30F26B0D163cDFEEA21B9eaC8f82f1Afaa021```
+**!!! The address filled on Gitcoin is the Concordium Mainnet one rather than an ERC-20 address**
 * Install Rust
   ![](img/rust-cfg-01.png)
   ![](img/rust-cfg-02.png)
@@ -23,7 +24,7 @@
     * installed concordium-client
      ![](img/concordium-cfg-02.png)
     * added account concordium-client from web wallet
-     **exported account data**
+     **exported account data from web wallet**
       ![](img/account-details.png) 
       **imported account to concordium-client**
      ![](img/account-03.png)
