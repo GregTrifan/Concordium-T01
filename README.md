@@ -6,6 +6,7 @@
   ![](img/rust-cfg-01.png)
   ![](img/rust-cfg-02.png)
   * Install Wasm toolset
+  
   ![](img/rust-cfg-03.png)
 * cargo-concordium config
     ![](img/concordium-cfg-01.png)
@@ -16,6 +17,7 @@
     ( txHash: ```04996e4544182f5efe2adabc35c65703660580a7244a02479017b68598622d11``` )
         ![](img/faucet-result.png)
     * Export account for concordium-client
+
         ![](img/account-02.png)
 * concordium-client config
     * installed concordium-client
